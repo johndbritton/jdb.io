@@ -1,6 +1,4 @@
-/test https://johndbritton.com 200
-
-/ https://johndbritton.com
+/ https://johndbritton.com 200
 
 /marketing-to-developers http://eepurl.com/cmAvRT
 /scoop-deck https://speakerdeck.com/johndbritton/marketing-to-developers
@@ -89,3 +87,5 @@
 /yXYJ26 http://meta.wikimedia.org/wiki/Free_Culture_Alliance_NYC
 /wZUMt2 http://www.physicscentral.com/explore/sots/
 /yappzU http://johndbritton.com/contact/
+
+/* https://johndbritton.com/:splat 200
